@@ -7,9 +7,9 @@ If you are running Windows, your fellow students and I would appreciate the cont
 ## Running
 For interactive use:
 ```
-ghci -XNPlusKPatterns fdl.hs`
+ghci -XNPlusKPatterns fdl.hs
 ```
 For evaluating a particular expression:
 ```
-ghci -XNPlusKPatterns fdl.hs`
+ghci -XNPlusKPatterns fdl.hs
 ```
